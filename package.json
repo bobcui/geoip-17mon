@@ -1,0 +1,9 @@
+{
+    "name": "huomaotv-geoip-17mon",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "underscore": "",
+        "optimist": ""
+    }
+}
