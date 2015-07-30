@@ -1,5 +1,5 @@
 {
-    "name": "huomaotv-geoip-17mon",
+    "name": "geoip-server-17mon",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
